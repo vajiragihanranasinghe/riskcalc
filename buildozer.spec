@@ -6,7 +6,7 @@ package.domain = org.riskcalc
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json,ttf
 version = 0.1
-requirements = python3,kivy==2.3.0
+requirements = python3==3.11.5,kivy==2.3.0
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
